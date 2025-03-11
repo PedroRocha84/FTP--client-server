@@ -25,7 +25,7 @@ The mains challenges addressed were first the connection between two application
 *. **GET** and **PUT** method implementations required the application of Java.Io class, used a combination of classes bufferedReader with FileOutPutStream and the FileInputStream with the bufferedWriter to read and write between apps. <br/><br/>
 *. **LS** to allow us to get more practive on this class, we build a file with all the commands, when the client request it by writing LS command and press enter, the server open the file and send to the client each line to be presented. This reduced the hard-coded in our application and let us to implement some flexibility.
 
-## Achiements:
+## Achievements:
 We successfuly deliver what was expected and leveraging our know-how by applying it:
 1. The use of OOP Encapsulation concepts;
 2. The use of Scanner inputStream to get from the terminal user inputs to allow read commands, and filenames for both methods GET and PUT;
